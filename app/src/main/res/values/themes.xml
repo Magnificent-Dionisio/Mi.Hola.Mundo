@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Butter" parent="android:Theme.Material.Light.NoActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <color name="colorPrimary">#1B95FE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#EDF9FC</color>
+</resources>
